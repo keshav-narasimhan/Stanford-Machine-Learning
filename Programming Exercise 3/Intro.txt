@@ -1,0 +1,3 @@
+# Introduction
+
+This folder contains the files to complete the third programming assignment for the course. 
